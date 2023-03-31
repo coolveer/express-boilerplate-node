@@ -1,0 +1,20 @@
+{
+  "name": "express-boilerplate-node",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-boilerplate-node": "bin/index.js"
+  },
+  "type": "module",
+  "author": {
+    "name": "veer pratap singh"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "9.1.5"
+  }
+}
