@@ -59,7 +59,6 @@ Contribute to [readMe](https://github.com/coolveer/express-boilerplate-node).
   * Good test coverage
   * MVC structure with environment variables
   * 3 database structure with example
-  * Content negotiation
   * Executable for generating applications quickly
 
 
@@ -79,6 +78,17 @@ $ npm install -g express-boilerplate-node
 ```console
 $ npx express-boilerplate-node [project-name]
 ```
+ Select boilerplate
+
+ ```console
+  ? select the databse you want to use ? (Use arrow keys)
+  
+❯ cassendra database 
+  mongoDB database 
+  Mysql database 
+
+
+ ```
 
   Plate setup:
 
@@ -168,9 +178,9 @@ $ npm test      //mocha-chai test
 
 ## Contributors
 
-* #### [Veer Pratap Singh](https://github.com/coolveer)
+* ### [Veer Pratap Singh](https://github.com/coolveer)
 
-* #### [Malay Srivastava](https://github.com/malaysrivastava)
+* ### [Malay Srivastava](https://github.com/malaysrivastava)
 
 
 
