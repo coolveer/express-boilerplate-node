@@ -168,9 +168,9 @@ $ npm test      //mocha-chai test
 
 ## Contributors
 
-* ### [Veer Pratap Singh](https://github.com/coolveer)
+* #### [Veer Pratap Singh](https://github.com/coolveer)
 
-* ### [Malay Srivastava](https://github.com/malaysrivastava)
+* #### [Malay Srivastava](https://github.com/malaysrivastava)
 
 
 
